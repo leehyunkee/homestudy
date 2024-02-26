@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #define _CRT_SECURE_NO_WARNINGS
 
 void hw1_1(void);
@@ -87,4 +87,4 @@ void hw1_4(void)
 		std::cout << "이번 달 급여: " << salary << std::endl;
 		
 	}
-}
+}*/

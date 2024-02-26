@@ -18,5 +18,11 @@
     <ClCompile Include="worksheet.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="20240226.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="bankingSystem.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
